@@ -2,6 +2,10 @@ body {
 	padding-top: 60px;
 }
 
+.fb-search {
+	width: 295px !important;
+}
+
 .chat-popup {
 	width: 300px;
 	position: fixed;
