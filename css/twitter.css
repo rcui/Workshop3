@@ -1,0 +1,47 @@
+body {
+	padding-top: 60px;
+}
+
+.navbar-btn-left {
+	margin-right: 10px;
+	border: none;
+	background-color: transparent;
+	color: grey;
+}
+
+.content {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.list-inline a {
+	color: grey;
+}
+
+.list-inline li {
+	margin-top: 10px;
+	margin-right: 40px;
+}
+
+.input-group {
+	width: 100%;
+}
+
+.twitter-search {
+	border-top-right-radius: 10px;
+}
+
+.navbar form button {
+	border-left: none;
+	background-color: white;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+
+.navbar .twitter-search {
+	background-color: white;
+	border-right: none;
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+	box-shadow: none !important;
+}
